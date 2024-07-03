@@ -1,0 +1,8 @@
+prefix=/home/oguzhan/hat_ws/src/map_publisher/build/devel
+
+Name: map_publisher
+Description: Description of map_publisher
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

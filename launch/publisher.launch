@@ -1,0 +1,4 @@
+<launch>
+    <rosparam file="$(find map_publisher)/config/params.yaml" />
+    <node name="map_publisher_node" pkg="map_publisher" type="map_publisher_node" output="screen" />
+</launch>

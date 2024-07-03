@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20240703-1727-Experimental"
+	Name="oguzhan-ABRA-A5-V16-6"
+	Generator="ctest-3.18.4"
+	CompilerName="/usr/bin/c++"
+	CompilerVersion="9.4.0"
+	OSName="Linux"
+	Hostname="oguzhan-ABRA-A5-V16-6"
+	OSRelease="5.16.11-051611-generic"
+	OSVersion="#202202230823 SMP PREEMPT Wed Feb 23 14:53:24 UTC 2022"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="165"
+	ProcessorCacheSize="8192"
+	NumberOfLogicalCPU="8"
+	NumberOfPhysicalCPU="4"
+	TotalVirtualMemory="2047"
+	TotalPhysicalMemory="15699"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="2400"
+	>
+	<Testing>
+		<StartDateTime>Jul 03 20:33 +03</StartDateTime>
+		<StartTestTime>1720028018</StartTestTime>
+		<TestList/>
+		<EndDateTime>Jul 03 20:33 +03</EndDateTime>
+		<EndTestTime>1720028018</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
